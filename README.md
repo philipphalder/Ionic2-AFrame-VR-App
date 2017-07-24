@@ -2,3 +2,5 @@
 
 This is a working example of an VR view app with [aframe](https://github.com/aframevr/aframe/) by mozilla.
 
+### Screenshot
+![Screenshot](screenshot.png?raw=true "Screenshot")
